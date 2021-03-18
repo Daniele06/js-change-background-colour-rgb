@@ -5,4 +5,4 @@ Exercise 2 from the 100+ Javascript projects page (https://jsbeginners.com/javas
 
 This code creates a random RGB background colour when clicking a button.
 
-![project picture](changebackgroundcolourrgb.png)
+![project picture](challenge1.png)
