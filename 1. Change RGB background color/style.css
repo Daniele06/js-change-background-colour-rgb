@@ -1,0 +1,24 @@
+#buttDiv {
+    margin-top: 30%;
+    text-align: center;
+}
+
+#butt {
+    border-radius: 10px;
+    border-style: none;
+    background-color: #0f0f0f;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+}
+
+#butt:hover {
+    transition: 0.2s;
+    background-color: #e23b3b;
+    cursor: pointer;
+}
+
+#rgbCode {
+    font-weight: bold;
+    font-size: 30px;
+}
